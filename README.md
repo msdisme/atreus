@@ -1,4 +1,4 @@
-# atreus
+# [atreus](https://shop.keyboard.io/collections/keyboardio-atreus/products/keyboardio-atreus)
 A place Atreus keymap json files for chrysalis
 ## Atreus Mac Kinesis Advantage
 ![Image of Mac Kinesis Advantage layout](https://github.com/msdisme/atreus/blob/main/mackinesisadvantage.jpg)
